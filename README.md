@@ -10,7 +10,7 @@ Meu objetivo é **transformar vidas de uma forma alegre e poderosa, com amor e s
 
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,next,vue,sqlserver,mysql,linux,mint,bash,vscode,npm,git&theme=dark&perline=13" 
+    src="https://skillicons.dev/icons?i=html,css,js,tailwind,ts,react,next,vue,mysql,linux,bash,vscode,npm,git&theme=dark&perline=13" 
     alt="skills" 
   />
 </p>
