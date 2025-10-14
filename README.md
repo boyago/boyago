@@ -31,9 +31,9 @@ Atuo com desenvolvimento **Full Stack**, **IA aplicada**, **Design**, e **Market
 ---
 
 ### 🌐 Onde me encontrar
-- 📸 [@AlexandreBoyago](https://www.instagram.com/alexandreboyago/)
+- 📸 [Instagram](https://www.instagram.com/alexandreboyago/)
 - 🎥 [YoutTube](https://www.youtube.com/@alexandreboyago)
-- 🔗 [alexandreboyago.com.br](https://alexandreboyago.com.br)
+- 🔗 [Meu Site](https://alexandreboyago.com.br)
 - 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-boyago-568b8b4/)
 
 ---
