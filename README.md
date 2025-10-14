@@ -6,6 +6,17 @@ Meu objetivo é **transformar vidas de uma forma alegre e poderosa, com amor e s
 
 ---
 
+## My Skill Set
+
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,mysql,linux,mint,bash,vscode,npm,git&theme=dark&perline=13" 
+    alt="skills" 
+  />
+</p>
+
+---
+
 ### 🌟 Sobre mim
 Sou apaixonado por tecnologia, educação e criação de projetos que unem **inovação, propósito e impacto real**.  
 Atuo com desenvolvimento **Full Stack**, **IA aplicada**, **design**, e **marketing digital**, formando profissionais preparados para o futuro.
