@@ -18,23 +18,23 @@ Meu objetivo é **transformar vidas de uma forma alegre e poderosa, com amor e s
 ---
 
 ### 🌟 Sobre mim
-Sou apaixonado por tecnologia, educação e criação de projetos que unem **inovação, propósito e impacto real**.  
-Atuo com desenvolvimento **Full Stack**, **IA aplicada**, **design**, e **marketing digital**, formando profissionais preparados para o futuro.
+Sou apaixonado por tecnologia, educação, comunicação e criação de projetos que unem **inovação, propósito e impacto real**.  
+Atuo com desenvolvimento **Full Stack**, **IA aplicada**, **Design**, e **Marketing digital**, formando profissionais preparados para o futuro.
 
 ---
 
 ### 🧠 Tecnologias que uso
 - **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, PHP, MySQL  
+- **Backend:** Node.js, PHP, MySQL, SQLServer  
 - **Infraestrutura:** Linux, Servidores Web, APIs  
-- **IA e Design:** Midjourney, Krea, Leonardo AI, Ideogram, Canva  
 
 ---
 
 ### 🌐 Onde me encontrar
+- 📸 [@AlexandreBoyago](https://www.instagram.com/alexandreboyago/)
+- 🎥 [YoutTube](https://www.youtube.com/@alexandreboyago)
 - 🔗 [alexandreboyago.com.br](https://alexandreboyago.com.br)
-- 💼 [LinkedIn](https://linkedin.com/in/alexandreboyago)
-- 📧 le.boyago@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-boyago-568b8b4/)
 
 ---
 
