@@ -23,13 +23,6 @@ Atuo com desenvolvimento **Full Stack**, **IA aplicada**, **Design**, e **Market
 
 ---
 
-### 🧠 Tecnologias que uso
-- **Frontend:** React, HTML, CSS, JavaScript  
-- **Backend:** Node.js, PHP, MySQL, SQLServer  
-- **Infraestrutura:** Linux, Servidores Web, APIs  
-
----
-
 ### 🌐 Onde me encontrar
 - 📸 [Instagram](https://www.instagram.com/alexandreboyago/)
 - 🎥 [YoutTube](https://www.youtube.com/@alexandreboyago)
